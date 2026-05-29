@@ -107,4 +107,4 @@
 
 ---
 
-# ✨ Frontend Developer Journey
+# ✨Thank you for visiting my Github profile 
