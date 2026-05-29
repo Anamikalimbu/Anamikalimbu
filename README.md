@@ -108,13 +108,3 @@
 ---
 
 # ✨ Frontend Developer Journey
-
-```
-js
-const developer = {
-    name: "Anamika Limbu",
-    role: "Frontend Developer",
-    skills: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
-    passion: "Building modern and user-friendly web interfaces"
-};
-```
