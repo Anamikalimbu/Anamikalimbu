@@ -30,7 +30,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html5,css3,js,react,tailwind,bootstrap,git,github,vscodejava,python,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,java,python,mongodb" />
 
 </div>
 
