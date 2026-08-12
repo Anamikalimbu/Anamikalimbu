@@ -133,15 +133,25 @@ Tech: Python
 
 ---
 ## 📊 GitHub Analytics
-<div align="left">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anamikalimbu&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anamikalimbu&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.shion.dev/api?username=Anamikalimbu&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="Anamika's GitHub Stats" height="180"/>
 
-</div>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anamikalimbu&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+
+</p>
+
 ---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Anamikalimbu&theme=vue-dark&hide_border=false" alt="Anamika's GitHub Contribution Streak"/>
+
+</p>
+---
 ## 📈 Contribution Activity
 
 <p align="center">
