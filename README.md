@@ -135,18 +135,56 @@ Tech: Python
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anamikalimbu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikalimbu&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+
+<a href="https://github.com/Anamikalimbu">
+<img src="https://img.shields.io/github/followers/Anamikalimbu?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/Anamikalimbu?tab=repositories">
+<img src="https://img.shields.io/github/repos/Anamikalimbu?style=for-the-badge&logo=github&label=Repositories" alt="GitHub Repositories"/>
+</a>
+
+<a href="https://github.com/Anamikalimbu?tab=stars">
+<img src="https://img.shields.io/github/stars/Anamikalimbu?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+</a>
+
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anamikalimbu&theme=tokyonight&hide_border=true" />
+
+<a href="https://github.com/Anamikalimbu">
+<img src="https://img.shields.io/badge/View%20Contribution%20Graph-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contribution Graph"/>
+</a>
+
 </p>
 
+<p align="center">
+  <b>🚀 Building projects • 💻 Writing code • 🌱 Learning every day</b>
+</p>
+
+---
+
+## 📈 Explore My GitHub
+
+<p align="center">
+
+<a href="https://github.com/Anamikalimbu?tab=repositories">
+<img src="https://img.shields.io/badge/📂%20Repositories-Explore-blue?style=for-the-badge" alt="Repositories"/>
+</a>
+
+<a href="https://github.com/Anamikalimbu?tab=projects">
+<img src="https://img.shields.io/badge/🚀%20Projects-Explore-purple?style=for-the-badge" alt="Projects"/>
+</a>
+
+<a href="https://github.com/Anamikalimbu?tab=followers">
+<img src="https://img.shields.io/badge/🤝%20Followers-Connect-green?style=for-the-badge" alt="Followers"/>
+</a>
+
+</p>
 ---
 
 ## 📈 Contribution Activity
