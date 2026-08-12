@@ -9,16 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Computing+Student+%F0%9F%8E%93;Building+Web+%26+ML+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Anamikalimbu">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=00C9A7" />
-  </a>
-</p>
-
 ---
 
 ## 💫 About Me
@@ -78,7 +68,7 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Joblib
 <table>
 <tr>
 <td width="50%">
-### 🛒 EcoMart
+🛒 EcoMart
 
 A simple and responsive e-commerce website designed to provide a clean online shopping experience.
 
@@ -90,17 +80,33 @@ A simple and responsive e-commerce website designed to provide a clean online sh
 
 </td>
 
+ <td width="50%">
+
+☕ Java Coursework
+
+A Java coursework project demonstrating object-oriented programming concepts, application logic, and practical software development.
+
+Tech: Java • OOP • GUI/Application Development
+
+<p> <a href="https://github.com/Anamikalimbu/JavaCoursework-"> 🔗 View Project </a> </p>
+</td>
 <td width="50%">
 
-### 🔐 MERN Authentication System
+💊 MedStore Wholesale Management System
 
-A full-stack authentication system with registration, login, JWT authentication, password reset, and protected routes.
+A Python-based medicine inventory management system for wholesale operations.
 
-**Tech:** MongoDB • Express • React • Node.js
+Features:
 
-<a href="https://github.com/Anamikalimbu">
-  🔗 View Project
-</a>
+📦 Inventory management
+💰 Medicine sales
+🔄 Restocking
+🧾 Invoice generation
+🔎 Medicine search
+
+Tech: Python
+
+<p> <a href="https://github.com/Anamikalimbu/PythonCourseWork"> 🔗 View Project </a> </p>
 
 </td>
 </tr>
@@ -128,8 +134,8 @@ A full-stack authentication system with registration, login, JWT authentication,
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anamikalimbu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikalimbu&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -137,7 +143,7 @@ A full-stack authentication system with registration, login, JWT authentication,
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Anamikalimbu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -145,7 +151,7 @@ A full-stack authentication system with registration, login, JWT authentication,
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnamikalimbuE&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
