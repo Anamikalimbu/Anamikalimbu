@@ -140,7 +140,6 @@ Tech: Python
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anamikalimbu&theme=tokyonight&hide_border=true" />
 
 </div>
-<img width="733" height="202" alt="image" src="https://github.com/user-attachments/assets/f5aaa4f8-a149-4bcc-91f3-0f4250e649f8" />
 ---
 
 ## 📈 Contribution Activity
