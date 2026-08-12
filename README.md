@@ -1,110 +1,207 @@
-<!-- HERO SECTION -->
-<div align="left">
+# 👋 Hi, I'm Anamika Limbu
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,100:E2E8F0&height=180&section=header&text=Anamika%20Limbu&fontSize=42&fontColor=0F172A&animation=fadeIn&fontAlign=25" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Anamika%20Limbu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/Anamikalimbu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Computing+Student+%F0%9F%8E%93;Building+Web+%26+ML+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=2563EB&center=false&vCenter=true&width=900&lines=Frontend+Developer;Building+Modern+and+Responsive+Websites;Creating+Clean+UI+and+Better+UX" />
-
-<br>
-
-### 💡 Passionate about building responsive, modern and user-friendly web experiences with clean frontend design.
-
-</div>
-
----
-
-# 🌟 About Me
-
-- 💻 Frontend Developer focused on modern web technologies  
-- 🎨 Passionate about clean UI and responsive layouts  
-- ⚡ Love building fast, accessible and interactive websites  
-- 📱 Creating mobile-friendly and user-centered interfaces  
-- 🚀 Continuously learning and improving frontend skills  
-- 🧠 Exploring modern frontend frameworks and design systems  
+<p align="center">
+  <a href="https://github.com/Anamikalimbu">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=00C9A7" />
+  </a>
+</p>
 
 ---
 
-# ⚡ Tech Stack
+## 💫 About Me
 
-<div align="left">
+🎓 I'm a **BSc (Hons) Computing student** passionate about technology and software development.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,figma,postman,java,python,mongodb" />
+💻 I enjoy building **full-stack web applications**, experimenting with **Machine Learning**, and solving real-world problems through code.
 
-</div>
+🚀 My goal is to continuously improve my development skills and build projects that are useful, practical, and meaningful.
 
-<br>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Responsive%20Design-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
-<img src="https://img.shields.io/badge/UI%20Design-0F172A?style=for-the-badge&logo=figma&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Web%20Development-1E40AF?style=for-the-badge&logo=react&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Frontend%20Focus-2563EB?style=for-the-badge&logo=html5&logoColor=white" />
-
-</div>
+```text
+💻 Code → 🧠 Learn → 🛠️ Build → 🐛 Debug → 🚀 Improve
+```
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="left">
+### 💻 Languages
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anamikalimbu&show_icons=true&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css" />
+</p>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anamikalimbu&theme=tokyonight&hide_border=true" />
+### ⚛️ Frontend
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
+
+### 🤖 Machine Learning & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+```text
+Pandas • NumPy • Scikit-learn • Matplotlib • Joblib
+```
 
 ---
 
-# 📈 Contribution Graph
+## 🚀 Featured Projects
 
-<div align="left">
+<table>
+<tr>
+<td width="50%">
+### 🛒 EcoMart
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anamikalimbu&theme=tokyo-night&hide_border=true" width="100%"/>
+A simple and responsive e-commerce website designed to provide a clean online shopping experience.
 
-</div>
+**Tech:** HTML • CSS • JavaScript
 
----
+<a href="https://github.com/Anamikalimbu/EcoMart">
+  🔗 View Project
+</a>
 
-# 🚀 Featured Skills
+</td>
 
-<div align="left">
+<td width="50%">
 
-✔ Responsive Web Design  
-✔ Frontend Development  
-✔ React UI Development  
-✔ Clean User Interface  
-✔ Modern Website Design  
-✔ Cross-Browser Compatibility  
+### 🔐 MERN Authentication System
 
-</div>
+A full-stack authentication system with registration, login, JWT authentication, password reset, and protected routes.
 
----
-
-# 🌐 Connect With Me
-
-<div align="left">
+**Tech:** MongoDB • Express • React • Node.js
 
 <a href="https://github.com/Anamikalimbu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  🔗 View Project
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  ⚛️  Advanced React                         │
+│  🟢  Node.js & Express                      │
+│  🤖  Machine Learning                       │
+│  📊  Data Analysis                          │
+│  🧠  AI Development                         │
+│  🏗️  Full-Stack Architecture               │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] 🚀 Become a stronger Full-Stack Developer
+* [ ] 🤖 Build more Machine Learning projects
+* [ ] 🌐 Deploy more real-world applications
+* [ ] 📚 Improve software architecture skills
+* [ ] 🧠 Learn more about AI
+* [ ] 🤝 Contribute to open-source projects
+* [ ] 💼 Build a strong developer portfolio
+
+---
+
+## 💡 Developer Philosophy
+
+> **"Don't just learn technology. Build something with it."**
+
+I believe the best way to learn programming is to **build, break, debug, and build again.**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Anamikalimbu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/anamika-limbu-b01238340/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:anamikalimbu8@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.instagram.com/anamikalimbu006/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</div>
+<a href="mailto: anamikalimbu8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-# ✨Thank you for visiting my Github profile 
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you find my projects interesting, consider giving them a ⭐**
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer" width="100%"/>
+</p>
