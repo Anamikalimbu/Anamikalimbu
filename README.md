@@ -90,6 +90,8 @@ Tech: Java • OOP • GUI/Application Development
 
 <p> <a href="https://github.com/Anamikalimbu/JavaCoursework-"> 🔗 View Project </a> </p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 💊 MedStore Wholesale Management System
@@ -134,8 +136,8 @@ Tech: Python
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anamikalimbu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikalimbu&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?Anamikalimbu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Anamikalimbu&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -143,7 +145,7 @@ Tech: Python
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anamikalimbu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?Anamikalimbu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -151,7 +153,7 @@ Tech: Python
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnamikalimbuE&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?AnamikalimbuE&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
