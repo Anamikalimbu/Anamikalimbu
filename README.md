@@ -9,7 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Computing+Student+%F0%9F%8E%93;Building+Web+%26+ML+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </p>
----
 
 ## 💫 About Me
 
