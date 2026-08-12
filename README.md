@@ -144,14 +144,6 @@ Tech: Python
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Anamikalimbu&theme=vue-dark&hide_border=false" alt="Anamika's GitHub Contribution Streak"/>
-
-</p>
----
 ## 📈 Contribution Activity
 
 <p align="center">
