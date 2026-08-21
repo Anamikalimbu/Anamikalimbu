@@ -73,7 +73,9 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Joblib
 
 A simple and responsive e-commerce website designed to provide a clean online shopping experience.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** • HTML 
+          • CSS 
+          • JavaScript
 
 <a href="https://github.com/Anamikalimbu/EcoMart">
   🔗 View Project
@@ -87,7 +89,9 @@ A simple and responsive e-commerce website designed to provide a clean online sh
 
 A Java coursework project demonstrating object-oriented programming concepts, application logic, and practical software development.
 
-**Tech:** Java • OOP • GUI/Application Development
+**Tech:** • Java
+          • OOP 
+          • GUI/Application Development
 
 <a href="https://github.com/Anamikalimbu/JavaCoursework-">
   🔗 View Project
@@ -107,11 +111,11 @@ A Python-based medicine inventory management system for wholesale operations.
 
 **Features:**
 
-📦 Inventory management
-💰 Medicine sales
-🔄 Restocking
-🧾 Invoice generation
-🔎 Medicine search
+ 📦 Inventory management
+ 💰 Medicine sales
+ 🔄 Restocking
+ 🧾 Invoice generation
+ 🔎 Medicine search
 
 **Tech:** Python
 
@@ -129,13 +133,17 @@ A Machine Learning-based weather prediction system designed to analyze historica
 
 **Features:**
 
-🌡️ Weather prediction
-📊 Historical data analysis
-🤖 Machine Learning models
-📈 Data visualization
-🌦️ Future weather forecasting
+ 🌡️ Weather prediction
+ 📊 Historical data analysis
+ 🤖 Machine Learning models
+ 📈 Data visualization
+ 🌦️ Future weather forecasting
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Flask
+**Tech:** • Python 
+          • Pandas 
+          • NumPy 
+          • Scikit-learn 
+          • Flask
 
 <a href="https://github.com/Anamikalimbu/Wether-Prediction-System">
   🔗 View Project
