@@ -167,7 +167,7 @@ A Machine Learning-based weather prediction system designed to analyze historica
 │  🤖  Machine Learning                       │
 │  📊  Data Analysis                          │
 │  🧠  AI Development                         │
-│  🏗️  Full-Stack Architecture               │
+│  🏗️  Full-Stack Architecture                │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
@@ -188,7 +188,10 @@ A Machine Learning-based weather prediction system designed to analyze historica
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anamikalimbu&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Anamikalimbu&background=273849&border=E4E2E2&stroke=273849&ring=41B883&fire=41B883&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=41B883&sideLabels=FFFFFF&dates=41B883&card_width=530&card_height=200"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
