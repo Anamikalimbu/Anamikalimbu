@@ -186,18 +186,22 @@ A Machine Learning-based weather prediction system designed to analyze historica
 ---
 
 ## 📈 Contribution Activity
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anamikalimbu&bg_color=0D1117&color=41B883&line=41B883&point=FFFFFF&area=true&hide_border=false&border_color=E4E2E2" width="95%"/>
+
+</div>
 
 
 ---
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
+<div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Anamikalimbu&background=273849&border=E4E2E2&stroke=273849&ring=41B883&fire=41B883&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=41B883&sideLabels=FFFFFF&dates=41B883&card_width=530&card_height=200"
     alt="GitHub Streak Stats"
   />
-</p>
+</div>
 
 
 ## 🎯 2026 Goals
