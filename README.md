@@ -182,7 +182,6 @@ A Machine Learning-based weather prediction system designed to analyze historica
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anamikalimbu&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
 
 </p>
-
 <div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Anamikalimbu&background=273849&border=E4E2E2&stroke=273849&ring=41B883&fire=41B883&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=41B883&sideLabels=FFFFFF&dates=41B883&card_width=530&card_height=200"
