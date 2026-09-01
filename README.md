@@ -186,11 +186,7 @@ A Machine Learning-based weather prediction system designed to analyze historica
 ---
 
 ## 📈 Contribution Activity
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anamikalimbu&bg_color=0D1117&color=41B883&line=41B883&point=FFFFFF&area=true&hide_border=false&border_color=E4E2E2" width="95%"/>
-
-</div>
 
 
 ---
