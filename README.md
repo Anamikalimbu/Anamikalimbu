@@ -187,24 +187,17 @@ A Machine Learning-based weather prediction system designed to analyze historica
 
 ## 📈 Contribution Activity
 
+
+
+---
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Anamikalimbu&background=273849&border=E4E2E2&stroke=273849&ring=41B883&fire=41B883&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=41B883&sideLabels=FFFFFF&dates=41B883&card_width=530&card_height=200"
     alt="GitHub Streak Stats"
   />
 </p>
-
----
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=Anamikalimbu&background=273849&border=E4E2E2&stroke=273849&ring=41B883&fire=41B883&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=41B883&sideLabels=FFFFFF&dates=41B883&hide_border=false&card_width=530&card_height=200"
-alt="Anamika Limbu's GitHub Streak"
-/>
-
-</div>
 
 
 ## 🎯 2026 Goals
